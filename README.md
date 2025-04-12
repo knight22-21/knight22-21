@@ -11,11 +11,41 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=knight22-21&label=Profile%20views&color=0e75b6&style=flat" alt="knight22-21" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning, Deep Learning, NLP and GenAi**
+- 🌱 I'm Krishna Tyagi, an AI/ML enthusiast from 🇮🇳 India who loves turning data into intelligent systems.
+
+- 👨‍💼 I’m passionate about building innovative solutions using Machine Learning, Deep Learning, and GenAI. Currently diving deep into LangChain, Prompt Engineering, and open-source LLM frameworks like Ollama and Meta Llama.
 
 - 👨‍💻 All of my projects are available at [https://github.com/knight22-21](https://github.com/knight22-21)
 
 - 📫 How to reach me **krishnatyagi2526@gmail.com**
+
+# Interests & Goals
+
+## 🤩 Interests
+
+- 🧠 **Generative AI & Prompt Engineering**
+- 📊 **Data Science & Statistical Modeling**
+- 🗣️ **Natural Language Processing**
+- 🔗 **LLM apps using LangChain & vector databases**
+- 🤖 **Exploring the intersection of AI & creativity**
+---
+
+## 🎯 Goals for 2025
+
+- 🌐 **Contribute to open-source AI projects**
+- 🧪 **Build real-world GenAI applications**  
+*(agents, assistants, etc.)*
+- 📜 **Land a research internship or AI dev role**
+
+---
+
+## 💬 Fun Fact
+
+I love solving Leetcode puzzles, experimenting with AI prompts, and staying updated with the latest ML trends.  
+When not coding, you might find me binge-watching sci-fi or reading up on cognitive science. 🧠📚
+
+---
+
 
 
 <h3 align="left">Connect with me:</h3>
@@ -28,48 +58,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
-
-
-## 📈 My GitHub stats
-
-<div class="badges-githubstats">
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=knight22-21&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Knight's Stats" height="165">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=knight22-21&theme=tokyonight&hide_border=true" alt="Knight's Streak" height="165">
-  </p>
-</div>
-
-<div align="center">
- 
-  <img src="https://streak-stats.demolab.com/?user=knight22-21&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
-  <br>
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=knight22-21&custom_title=knight's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
-<br>
-<div align="center">
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=knight22-21&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=knight22-21&theme=highcontrast&hide_border=true" alt="Repos Per Language">
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=knight22-21&theme=highcontrast&hide_border=true" alt="Most Commit Language">
-    </td>
-  </tr>
-</table>
-
-</div>
-
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=knight22-21&theme=highcontrast&hide_border=true">
-
-
-
-
-
-
 
 
 
@@ -175,6 +163,62 @@
   </tbody>
 </table>
 </div>
+
+
+
+
+
+
+
+
+
+
+## 📈 My GitHub stats
+
+<div class="badges-githubstats">
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=knight22-21&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Knight's Stats" height="165">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=knight22-21&theme=tokyonight&hide_border=true" alt="Knight's Streak" height="165">
+  </p>
+</div>
+
+<div align="center">
+ 
+  <img src="https://streak-stats.demolab.com/?user=knight22-21&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+  <br>
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=knight22-21&custom_title=knight's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
+<br>
+<div align="center">
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=knight22-21&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=knight22-21&theme=highcontrast&hide_border=true" alt="Repos Per Language">
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=knight22-21&theme=highcontrast&hide_border=true" alt="Most Commit Language">
+    </td>
+  </tr>
+</table>
+
+</div>
+
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=knight22-21&theme=highcontrast&hide_border=true">
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
