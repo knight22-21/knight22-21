@@ -19,6 +19,13 @@
 
 - 📫 How to reach me **krishnatyagi2526@gmail.com**
 
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=knight22-21" alt="knight22-21" />
+  </a> 
+</p>
+
+
 # Interests & Goals
 
 ## 🤩 Interests
