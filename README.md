@@ -9,11 +9,18 @@
 <h1 align="center">Hi 👋, I'm Krishna Tyagi</h1>
 <h3 align="center">A passionate Ai/ML developer from India</h3>
 
+
+<p align="center">
+  <em>"Driven by curiosity, powered by code."</em>  
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=knight22-21&label=Profile%20views&color=0e75b6&style=flat" alt="knight22-21" /> </p>
 
 - 🌱 I'm Krishna Tyagi, an AI/ML enthusiast from 🇮🇳 India who loves turning data into intelligent systems.
 
-- 👨‍💼 I’m passionate about building innovative solutions using Machine Learning, Deep Learning, and GenAI. Currently diving deep into LangChain, Prompt Engineering, and open-source LLM frameworks like Ollama and Meta Llama.
+- 👨‍💼 I’m passionate about building innovative solutions using Machine Learning, Deep Learning, Generative AI, and MLOps pipelines.
+
+- 👨‍💻 Currently diving into LangChain, Prompt Engineering, open-source LLMs (like Ollama & Meta Llama), and MLOps tools (like MLflow & Docker).
 
 - 👨‍💻 All of my projects are available at [https://github.com/knight22-21](https://github.com/knight22-21)
 
@@ -34,7 +41,9 @@
 - 📊 **Data Science & Statistical Modeling**
 - 🗣️ **Natural Language Processing**
 - 🔗 **LLM apps using LangChain & vector databases**
+- ⚙️ **MLOps & Model Deployment**
 - 🤖 **Exploring the intersection of AI & creativity**
+
 ---
 
 ## 🎯 Goals for 2025
@@ -45,6 +54,14 @@
 - 📜 **Land a research internship or AI dev role**
 
 ---
+
+## 📚 What I'm Currently Learning
+
+- 📦 Building LangChain agents  
+- ⚙️ MLOps workflows using MLflow, Docker, and CI/CD
+
+---
+
 
 ## 💬 Fun Fact
 
@@ -57,10 +74,10 @@ When not coding, you might find me binge-watching sci-fi or reading up on cognit
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/krishna tyagi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishna tyagi" height="30" width="40" /></a>
-<a href="https://kaggle.com/knight22-21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="knight22-21" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/krishna-tyagi-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishna tyagi" height="30" width="40" /></a>
+<a href="https://kaggle.com/knight2221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="knight22-21" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/knight22-21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="knight22-21" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/<knight2221>/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="<knight2221>/profile" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/knight2221/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="<knight2221>/profile" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
