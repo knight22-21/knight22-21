@@ -159,6 +159,37 @@ When not coding, you might find me binge-watching sci-fi or reading up on cognit
 </table>
 </div>
 
+<h3 align="center">⚙️ MLOps Tools</h3>
+<div align="center">
+  <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+    <thead>
+      <tr>
+        <th colspan="5" align="center" style="color: white;">Workflow & Deployment Tools</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center" style="border: none;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/><br>Docker
+        </td>
+        <td align="center" style="border: none;">
+          <strong>DVC</strong>
+        </td>
+        <td align="center" style="border: none;">
+          <strong>MLflow</strong>
+        </td>
+        <td align="center" style="border: none;">
+          <strong>DAGsHub</strong>
+        </td>
+        <td align="center" style="border: none;">
+          <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/githubactions.svg" alt="CI/CD" width="40" height="40"/><br>CI/CD
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+
 
 <h3 align="center"> AI Tools & Prompt Engineering</h3>
 <div align="center">
