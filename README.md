@@ -20,7 +20,7 @@
 
 - 👨‍💼 I’m passionate about building innovative solutions using Machine Learning, Deep Learning, Generative AI, and MLOps pipelines.
 
-- 👨‍💻 Currently diving into LangChain, Prompt Engineering, open-source LLMs (like Ollama & Meta Llama), and MLOps tools (like MLflow & Docker).
+- 👨‍💻 Currently diving into LangGraph, LangChain, Prompt Engineering, open-source LLMs (like Ollama & Meta Llama), and MLOps tools (like MLflow & Docker).
 
 - 👨‍💻 All of my projects are available at [https://github.com/knight22-21](https://github.com/knight22-21)
 
