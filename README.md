@@ -4,7 +4,7 @@
    
 <img src="https://github.com/user-attachments/assets/59a012e0-50cc-4c38-8f55-8543b189c966" alt="Welcome!" width="300"/>
 
-</div> 
+</div>  
 
 <h1 align="center">Hi 👋, I'm Krishna Tyagi</h1>
 <h3 align="center">A passionate Ai/ML developer from India</h3>
