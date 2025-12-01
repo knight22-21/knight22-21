@@ -1,235 +1,160 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
-  
-<div align="center" width="50">
-    
-<img src="https://github.com/user-attachments/assets/59a012e0-50cc-4c38-8f55-8543b189c966" alt="Welcome!" width="300"/>
 
-</div>  
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/59a012e0-50cc-4c38-8f55-8543b189c966" alt="Welcome Banner" width="300"/>
+</div>
 
 <h1 align="center">Hi 👋, I'm Krishna Tyagi</h1>
-<h3 align="center">A passionate Ai/ML developer from India</h3>
+<h3 align="center">AI/ML Developer • GenAI Explorer • MLOps Learner from India 🇮🇳</h3>
 
- 
-<p align="center">
-  <em>"Driven by curiosity, powered by code."</em>  
+<p align="center"><em>"Driven by curiosity, powered by code."</em></p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=knight22-21&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=knight22-21&label=Profile%20views&color=0e75b6&style=flat" alt="knight22-21" /> </p>
+---
 
-- 🌱 I'm Krishna Tyagi, an AI/ML enthusiast from 🇮🇳 India who loves turning data into intelligent systems.
+## 👨‍💻 About Me
 
-- 👨‍💼 I’m passionate about building innovative solutions using Machine Learning, Deep Learning, Generative AI, and MLOps pipelines.
+- 🌱 I'm an AI/ML enthusiast passionate about building intelligent systems from data.  
+- 🤖 Working on **LangChain, LangGraph, LLM apps, and Generative AI pipelines**.  
+- ⚙️ Exploring **MLOps tools** like MLflow, Docker, DVC & CI/CD workflows.  
+- 📂 Check out all my projects → **[github.com/knight22-21](https://github.com/knight22-21)**  
+- 📫 Reach me at → **krishnatyagi2526@gmail.com**
 
-- 👨‍💻 Currently diving into LangGraph, LangChain, Prompt Engineering, open-source LLMs (like Ollama & Meta Llama), and MLOps tools (like MLflow & Docker).
-
-- 👨‍💻 All of my projects are available at [https://github.com/knight22-21](https://github.com/knight22-21)
-
-- 📫 How to reach me **krishnatyagi2526@gmail.com**
-
-<p align="left"> 
+<p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=knight22-21" alt="knight22-21" />
-  </a> 
+    <img src="https://github-profile-trophy.vercel.app/?username=knight22-21&margin-w=10&theme=onedark" alt="Trophies" />
+  </a>
 </p>
 
+---
 
-# Interests & Goals
+# 🎯 Interests & Goals
 
 ## 🤩 Interests
-
-- 🧠 **Generative AI & Prompt Engineering**
-- 📊 **Data Science & Statistical Modeling**
-- 🗣️ **Natural Language Processing**
-- 🔗 **LLM apps using LangChain & vector databases**
-- ⚙️ **MLOps & Model Deployment**
-- 🤖 **Exploring the intersection of AI & creativity**
+- 🧠 Generative AI & Prompt Engineering  
+- 📊 Data Science & ML Modeling  
+- 🗣️ NLP & LLM Applications  
+- 🔗 LangChain + Vector Databases  
+- ⚙️ MLOps & Production ML  
+- 🎨 AI + Creativity Experiments  
 
 ---
 
 ## 🎯 Goals for 2025
-
-- 🌐 **Contribute to open-source AI projects**
-- 🧪 **Build real-world GenAI applications**  
-*(agents, assistants, etc.)*
-- 📜 **Land a research internship or AI dev role**
+- ⭐ Contribute to **open-source AI projects**  
+- 🧪 Build **real-world GenAI apps** (agents, assistants, etc.)  
+- 📜 Land a **research internship or AI developer role**  
 
 ---
 
-## 📚 What I'm Currently Learning
-
-- 📦 Building LangChain agents  
-- ⚙️ MLOps workflows using MLflow, Docker, and CI/CD
-
----
-
-
-## 💬 Fun Fact
-
-I love solving Leetcode puzzles, experimenting with AI prompts, and staying updated with the latest ML trends.  
-When not coding, you might find me binge-watching sci-fi or reading up on cognitive science. 🧠📚
+## 📚 Currently Learning
+- 🤖 Building multi-agent LangChain workflows  
+- ⚙️ MLflow, Docker, DVC & CI/CD for MLOps  
 
 ---
 
+## 💬 Fun Fact  
+When I’m not coding, I enjoy solving Leetcode puzzles, experimenting with AI prompts, binge-watching sci-fi, and reading about cognitive science. 🧠📚
 
+---
 
-<h3 align="left">Connect with me:</h3>
+# 🤝 Connect with Me
 <p align="left">
-<a href="https://linkedin.com/in/krishna-tyagi-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishna tyagi" height="30" width="40" /></a>
-<a href="https://kaggle.com/knight2221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="knight22-21" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/knight22-21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="knight22-21" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/knight2221/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="<knight2221>/profile" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/krishna-tyagi-/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/></a>
+<a href="https://kaggle.com/knight2221" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40"/></a>
+<a href="https://www.leetcode.com/knight22-21" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/></a>
+<a href="https://auth.geeksforgeeks.org/user/knight2221/profile" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+---
 
+# 🧩 Languages & Tools
 
+### 💼 Programming, ML & Libraries
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40"/>
+</p>
 
+---
 
+# 🧠 Tech Stack
 
+<h1 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="50"> Tech Stack
+</h1>
 
-<h1 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Tech Stack</h1>
-
+## 🗄️ Database
 <div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <thead>
-    <tr>
-      <th colspan="4" align="center" style="color: white;">Database</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50"/><br>MySQL
-      </td>
-    </tr>
-  </tbody>
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="50"><br>MySQL
+</div>
+
+---
+
+## 🤖 AI/ML & Data Science
+
+### Languages & Libraries
+<div align="center">
+<table style="background-color: black; border-radius: 10px;">
+  <tr>
+    <td align="center"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="50"/><br>Python</td>
+    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" width="50"/><br>NumPy</td>
+    <td align="center"><img src="https://github.com/valohai/ml-logos/blob/master/pandas.svg" width="80"/><br>Pandas</td>
+    <td align="center"><img src="https://github.com/KenanGain/KenanGain/blob/main/icons/Tensorflow.gif" width="80"/><br>TensorFlow</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=pytorch" width="50"/><br>PyTorch</td>
+  </tr>
 </table>
 </div>
 
-
-<h3 align="center">AI/ML & Data Science</h3>
+### Frameworks & Tools
 <div align="center">
-  <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <thead>
-    <tr>
-      <th colspan="5" align="center" style="color: white;">Languages & Libraries</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50"/><br>Python
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" alt="NumPy" width="50" height="50"/><br>NumPy
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://github.com/valohai/ml-logos/blob/master/pandas.svg" alt="Pandas" width="80" height="50"/><br>Pandas
-      </td>
-      <td align="center" style="border: none;">
-<!--         <img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" alt="TensorFlow" width="50" height="50"/> -->
-        <img src="https://github.com/KenanGain/KenanGain/blob/main/icons/Tensorflow.gif" alt="TensorFlow" width="80" height="70" /><br>TensorFlow
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="50" height="50"/><br>PyTorch
-      </td>
-    </tr>
-  </tbody>
- </table>
-</div>
-
-<div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <thead>
-    <tr>
-      <th colspan="3" align="center" style="color: white;">Frameworks & Tools</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/LangChain_logo.png" alt="LangChain" width="80" height="50"/><br>LangChain
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://ollama.ai/public/ollama.png" alt="Ollama" width="50" height="60"/><br>Ollama
-      </td>
-    </tr>
-  </tbody>
+<table style="background-color: black; border-radius: 10px;">
+  <tr>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/LangChain_logo.png" width="80"/><br>LangChain</td>
+    <td align="center"><img src="https://ollama.ai/public/ollama.png" width="50"/><br>Ollama</td>
+  </tr>
 </table>
 </div>
 
-<h3 align="center">⚙️ MLOps Tools</h3>
+---
+
+## ⚙️ MLOps Tools
 <div align="center">
-  <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-    <thead>
-      <tr>
-        <th colspan="5" align="center" style="color: white;">Workflow & Deployment Tools</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td align="center" style="border: none;">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/><br>Docker
-        </td>
-        <td align="center" style="border: none;">
-          <strong>DVC</strong>
-        </td>
-        <td align="center" style="border: none;">
-          <strong>MLflow</strong>
-        </td>
-        <td align="center" style="border: none;">
-          <strong>DAGsHub</strong>
-        </td>
-        <td align="center" style="border: none;">
-          <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/githubactions.svg" alt="CI/CD" width="40" height="40"/><br>CI/CD
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
-
-
-<h3 align="center"> AI Tools & Prompt Engineering</h3>
-<div align="center">
- <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <thead>
-    <tr>
-      <th colspan="6" align="center" style="color: white;">AI Tools</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="50" height="50" alt="ChatGPT"/><br>ChatGPT
-      </td>
-      <td align="center" style="border: none;">
-<!--         <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" width="50" height="50" alt="Google Gemini"/> -->
-        <img src="https://github.com/KenanGain/KenanGain/blob/main/icons/Gemini.gif" alt="Gemini" width="80" height="80" /><br>Google Gemini
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="50" height="50" alt="Hugging Face"/><br>Hugging Face
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Meta-Logo.png" width="80" height="50" alt="Meta Llama"/><br>Meta Llama
-      </td>
-    </tr>
-  </tbody>
+<table style="background-color: black; border-radius: 10px;">
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/><br>Docker</td>
+    <td align="center"><b>DVC</b></td>
+    <td align="center"><b>MLflow</b></td>
+    <td align="center"><b>DAGsHub</b></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/githubactions.svg" width="40"/><br>CI/CD</td>
+  </tr>
 </table>
 </div>
 
+---
 
+## 🤖 AI Tools & Prompt Engineering
+<div align="center">
+<table style="background-color: black; border-radius: 10px;">
+  <tr>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="50"/><br>ChatGPT</td>
+    <td align="center"><img src="https://github.com/KenanGain/KenanGain/blob/main/icons/Gemini.gif" width="80"/><br>Google Gemini</td>
+    <td align="center"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="50"/><br>HuggingFace</td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Meta-Logo.png" width="80"/><br>Meta Llama</td>
+  </tr>
+</table>
+</div>
 
+---
 
-
-
-
-
-
-
-## 📈 My GitHub stats
-
+# 📈 GitHub Stats
 <div class="badges-githubstats">
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=knight22-21&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Knight's Stats" height="165">
@@ -262,7 +187,6 @@ When not coding, you might find me binge-watching sci-fi or reading up on cognit
 
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=knight22-21&theme=highcontrast&hide_border=true">
-
 
 
 
