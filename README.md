@@ -1,208 +1,92 @@
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
-         
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/59a012e0-50cc-4c38-8f55-8543b189c966" alt="Welcome Banner" width="300"/>
-</div>
-  
 <h1 align="center">Hi 👋, I'm Krishna Tyagi</h1>
-<h3 align="center">AI/ML Developer • GenAI Explorer • MLOps Learner from India 🇮🇳</h3>
+<h3 align="center">AI engineer building agents, developer tooling, and production ML systems 🇮🇳</h3>
+
+<p align="center">
+  <a href="https://linkedin.com/in/krishna-tyagi-/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://kaggle.com/knight2221"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
+  <a href="https://www.leetcode.com/knight22-21"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+  <a href="mailto:krishnatyagi2526@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://komarev.com/ghpvc/?username=knight22-21&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+</p>
+
+---
+
+## 👨‍💻 About me
+
+I build LLM-powered systems end to end: multi-agent workflows, tools that make AI coding agents cheaper and safer to run, and MLOps pipelines that take a model from notebook to monitored service.
+
+- 🤖 **Now:** agent tooling: MCP servers, terminal coding agents, LangGraph workflows
+- ⚙️ **Also:** MLOps: MLflow, DVC, Docker, GitHub Actions, drift monitoring
+- 🏆 **Hackathons & challenges:** Razorpay AI Buildathon, plus several hiring challenges
+- 📫 **Open to:** AI/ML engineering roles and open-source collaboration
+
+---
+
+## 🚀 Featured projects
+
+### 🔷 [CodePrism](https://github.com/knight22-21/CodePrism) · MCP server · Python
+A persistent **knowledge graph of your codebase** for AI coding agents. Agents query callers, impact, and data flow instead of re-reading files, which cuts context from thousands of tokens to a few hundred (**~91% average token reduction** across requests, flask, and httpx in its benchmark). It also runs a security scanner before every write. Built on tree-sitter, it supports 10 languages and is published on PyPI (`pip install codeprism-ai`).
+
+### 🔷 [DevAgent](https://github.com/knight22-21/DevAgent) · Terminal coding agent · Python
+An **offline-first, GitHub-native coding agent**. Point it at an issue or a spec and it reads the code, edits files, runs tests, and reports back. It works with Ollama and other LLM providers, has a security gate, and scored **21/24 (87.5%)** on its coding-task benchmark.
+
+### 🔷 [ARIA](https://github.com/knight22-21/ARIA) · Autonomous Revenue Intelligence Agent
+Built for the Razorpay AI Buildathon. It detects revenue at risk, diagnoses the root cause with an LLM chain, runs bounded and reversible recovery actions, and records every decision in an append-only audit ledger. **FastAPI · Postgres · Redis · Celery · React**
+
+### 🔷 [MedClaim](https://github.com/knight22-21/MedClaim) · Multi-agent healthcare system
+A **LangGraph** multi-agent system that takes an insurance claim from clinical documentation through coding audit and denial prediction to appeal generation. It uses RAG over four medical vector stores and human-in-the-loop gates. **LangGraph · Groq · Gemini · RAG**
+
+### 🔷 [GridCast](https://github.com/knight22-21/GridCast) · End-to-end MLOps
+An electricity-demand forecasting pipeline: **LightGBM + Optuna**, MLflow tracking, champion/challenger promotion, a FastAPI service, Evidently drift detection, and CI/CD on GitHub Actions.
+
+### 🔷 [AirSense-AI](https://github.com/knight22-21/AirSense-AI) · Urban air-quality intelligence
+Live AQI ingestion from OpenAQ, Open-Meteo, and NASA FIRMS, with 72-hour forecasts, pollution source attribution, and bilingual (English/Hindi) citizen advisories.
+
+---
+
+## 🗂️ More work
+
+| Project | What it is |
+|---|---|
+| [VidiQ-AI](https://github.com/knight22-21/VidiQ-AI) | Video RAG: Whisper transcription, semantic chunking, vector search, Q&A, and clip generation |
+| [DocuMind](https://github.com/knight22-21/DocuMind) | AI research assistant that answers questions over papers |
+| [KrishnAutoML](https://github.com/knight22-21/KrishnAutoML) | AutoML tool |
+| [intellitrip](https://github.com/knight22-21/intellitrip) | Agentic trip planner and scheduler |
+| [retail-demand-forecasting-mlops](https://github.com/knight22-21/retail-demand-forecasting-mlops) | Retail demand forecasting with MLOps practices |
+| [Mlops-project-dvc](https://github.com/knight22-21/Mlops-project-dvc) · [-Mlflow](https://github.com/knight22-21/Mlops-project-Mlflow) · [-ci](https://github.com/knight22-21/Mlops-project-ci) | Small MLOps series covering DVC, MLflow, and CI |
+| [Object-Detection-Pipeline](https://github.com/knight22-21/Object-Detection-Pipeline) · [Fire-Smoke-Detection-CV](https://github.com/knight22-21/Fire-Smoke-Detection-CV) | Computer vision |
+
+---
+
+## 🧰 Tech stack
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langgraph&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MCP-000000?style=flat&logo=modelcontextprotocol&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DVC-945DD6?style=flat&logo=dvc&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white"/>
+</p>
+
+---
+
+## 📈 GitHub stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=knight22-21&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=knight22-21&hide=html,jupyter%20notebook&hide_border=true&layout=compact&langs_count=6&theme=tokyonight" alt="Top languages" height="165"/>
+</p>
 
 <p align="center"><em>"Driven by curiosity, powered by code."</em></p>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=knight22-21&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
- 
----
-
-## 👨‍💻 About Me
-
-- 🌱 I'm an AI/ML enthusiast passionate about building intelligent systems from data.  
-- 🤖 Working on **LangChain, LangGraph, LLM apps, and Generative AI pipelines**.  
-- ⚙️ Exploring **MLOps tools** like MLflow, Docker, DVC & CI/CD workflows.  
-- 📂 Check out all my projects → **[github.com/knight22-21](https://github.com/knight22-21)**  
-- 📫 Reach me at → **krishnatyagi2526@gmail.com**
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=knight22-21&margin-w=10&theme=onedark" alt="Trophies" />
-  </a>
-</p>
-
----
-
-# 🎯 Interests & Goals
-
-## 🤩 Interests
-- 🧠 Generative AI & Prompt Engineering  
-- 📊 Data Science & ML Modeling  
-- 🗣️ NLP & LLM Applications  
-- 🔗 LangChain + Vector Databases  
-- ⚙️ MLOps & Production ML  
-- 🎨 AI + Creativity Experiments  
-
----
-
-## 🎯 Goals for 2025
-- ⭐ Contribute to **open-source AI projects**  
-- 🧪 Build **real-world GenAI apps** (agents, assistants, etc.)  
-- 📜 Land a **research internship or AI developer role**  
-
----
-
-## 📚 Currently Learning
-- 🤖 Building multi-agent LangChain workflows  
-- ⚙️ MLflow, Docker, DVC & CI/CD for MLOps  
-
----
-
-## 💬 Fun Fact  
-When I’m not coding, I enjoy solving Leetcode puzzles, experimenting with AI prompts, binge-watching sci-fi, and reading about cognitive science. 🧠📚
-
----
-
-# 🤝 Connect with Me
-<p align="left">
-<a href="https://linkedin.com/in/krishna-tyagi-/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/></a>
-<a href="https://kaggle.com/knight2221" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40"/></a>
-<a href="https://www.leetcode.com/knight22-21" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/></a>
-<a href="https://auth.geeksforgeeks.org/user/knight2221/profile" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40"/></a>
-</p>
-
----
-
-# 🧩 Languages & Tools
-
-### 💼 Programming, ML & Libraries
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40"/>
-</p>
-
----
-
-# 🧠 Tech Stack
-
-<h1 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="50"> Tech Stack
-</h1>
-
-## 🗄️ Database
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="50"><br>MySQL
-</div>
-
----
-
-## 🤖 AI/ML & Data Science
-
-### Languages & Libraries
-<div align="center">
-<table style="background-color: black; border-radius: 10px;">
-  <tr>
-    <td align="center"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="50"/><br>Python</td>
-    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" width="50"/><br>NumPy</td>
-    <td align="center"><img src="https://github.com/valohai/ml-logos/blob/master/pandas.svg" width="80"/><br>Pandas</td>
-    <td align="center"><img src="https://github.com/KenanGain/KenanGain/blob/main/icons/Tensorflow.gif" width="80"/><br>TensorFlow</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=pytorch" width="50"/><br>PyTorch</td>
-  </tr>
-</table>
-</div>
-
-### Frameworks & Tools
-<div align="center">
-<table style="background-color: black; border-radius: 10px;">
-  <tr>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/LangChain_logo.png" width="80"/><br>LangChain</td>
-    <td align="center"><img src="https://ollama.ai/public/ollama.png" width="50"/><br>Ollama</td>
-  </tr>
-</table>
-</div>
-
----
-
-## ⚙️ MLOps Tools
-<div align="center">
-<table style="background-color: black; border-radius: 10px;">
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/><br>Docker</td>
-    <td align="center"><b>DVC</b></td>
-    <td align="center"><b>MLflow</b></td>
-    <td align="center"><b>DAGsHub</b></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/githubactions.svg" width="40"/><br>CI/CD</td>
-  </tr>
-</table>
-</div>
-
----
-
-## 🤖 AI Tools & Prompt Engineering
-<div align="center">
-<table style="background-color: black; border-radius: 10px;">
-  <tr>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="50"/><br>ChatGPT</td>
-    <td align="center"><img src="https://github.com/KenanGain/KenanGain/blob/main/icons/Gemini.gif" width="80"/><br>Google Gemini</td>
-    <td align="center"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="50"/><br>HuggingFace</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Meta-Logo.png" width="80"/><br>Meta Llama</td>
-  </tr>
-</table>
-</div>
-
----
-
-# 📈 GitHub Stats
-<div class="badges-githubstats">
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=knight22-21&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Knight's Stats" height="165">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=knight22-21&theme=tokyonight&hide_border=true" alt="Knight's Streak" height="165">
-  </p>
-</div>
-
-<div align="center">
- 
- 
-  <br>
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=knight22-21&custom_title=knight's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
-<br>
-<div align="center">
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=knight22-21&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=knight22-21&theme=highcontrast&hide_border=true" alt="Repos Per Language">
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=knight22-21&theme=highcontrast&hide_border=true" alt="Most Commit Language">
-    </td>
-  </tr>
-</table>
-
-</div>
-
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=knight22-21&theme=highcontrast&hide_border=true">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!---
-knight22-21/knight22-21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
