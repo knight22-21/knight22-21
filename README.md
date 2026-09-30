@@ -1,3 +1,13 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Krishna%20Tyagi&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Agents%20%C2%B7%20Developer%20Tooling%20%C2%B7%20Production%20ML&descAlignY=58&descSize=18" alt="header"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/knight22-21">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=620&lines=Building+MCP+servers+for+AI+coding+agents;Shipping+terminal-first+LLM+tools;Turning+notebooks+into+monitored+ML+services;Pip+install+codeprism-ai+%F0%9F%9A%80" alt="Typing SVG"/>
+  </a>
+</p>
+
 <h1 align="center">Hi 👋, I'm Krishna Tyagi</h1>
 <h3 align="center">AI engineer building agents, developer tooling, and production ML systems 🇮🇳</h3>
 
@@ -30,17 +40,11 @@ A persistent **knowledge graph of your codebase** for AI coding agents. Agents q
 ### 🔷 [DevAgent](https://github.com/knight22-21/DevAgent) · Terminal coding agent · Python
 An **offline-first, GitHub-native coding agent**. Point it at an issue or a spec and it reads the code, edits files, runs tests, and reports back. It works with Ollama and other LLM providers, has a security gate, and scored **21/24 (87.5%)** on its coding-task benchmark.
 
-### 🔷 [ARIA](https://github.com/knight22-21/ARIA) · Autonomous Revenue Intelligence Agent
-Built for the Razorpay AI Buildathon. It detects revenue at risk, diagnoses the root cause with an LLM chain, runs bounded and reversible recovery actions, and records every decision in an append-only audit ledger. **FastAPI · Postgres · Redis · Celery · React**
-
 ### 🔷 [MedClaim](https://github.com/knight22-21/MedClaim) · Multi-agent healthcare system
 A **LangGraph** multi-agent system that takes an insurance claim from clinical documentation through coding audit and denial prediction to appeal generation. It uses RAG over four medical vector stores and human-in-the-loop gates. **LangGraph · Groq · Gemini · RAG**
 
 ### 🔷 [GridCast](https://github.com/knight22-21/GridCast) · End-to-end MLOps
 An electricity-demand forecasting pipeline: **LightGBM + Optuna**, MLflow tracking, champion/challenger promotion, a FastAPI service, Evidently drift detection, and CI/CD on GitHub Actions.
-
-### 🔷 [AirSense-AI](https://github.com/knight22-21/AirSense-AI) · Urban air-quality intelligence
-Live AQI ingestion from OpenAQ, Open-Meteo, and NASA FIRMS, with 72-hour forecasts, pollution source attribution, and bilingual (English/Hindi) citizen advisories.
 
 ---
 
@@ -82,6 +86,30 @@ Live AQI ingestion from OpenAQ, Open-Meteo, and NASA FIRMS, with 72-hour forecas
 
 ---
 
+## 🐍 Contribution snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/knight22-21/knight22-21/output/github-snake-dark.svg"/>
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/knight22-21/knight22-21/output/github-snake.svg"/>
+  </picture>
+</p>
+
+---
+
+## 🏆 Trophies & activity
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=knight22-21&theme=onedark&margin-w=10&no-frame=true&row=1&column=7" alt="Trophies"/>
+  </a>
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=knight22-21&custom_title=Krishna's%20GitHub%20Activity&hide_border=true&bg_color=0d1117&color=36BCF7&line=1E90FF&point=FFD700&area=true&area_color=1E90FF&title_color=FFD700" alt="Activity graph"/>
+</p>
+
+---
+
 ## 📈 GitHub stats
 
 <p align="center">
@@ -89,4 +117,6 @@ Live AQI ingestion from OpenAQ, Open-Meteo, and NASA FIRMS, with 72-hour forecas
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=knight22-21&hide=html,jupyter%20notebook&hide_border=true&layout=compact&langs_count=6&theme=tokyonight" alt="Top languages" height="165"/>
 </p>
 
-<p align="center"><em>"Driven by curiosity, powered by code."</em></p>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&italic=true&size=16&pause=2500&color=8B949E&center=true&vCenter=true&width=450&lines=%22Driven+by+curiosity%2C+powered+by+code.%22" alt="tagline"/></p>
+
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" alt="footer"/></p>
